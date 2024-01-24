@@ -1,8 +1,8 @@
-# main.react
+# React APP
 
 一种前端框架
 
-+ main (top level module)
++ app (top level module, business)
 	+ ui (root ui)
 	+ ss (global state and services)
 	+ modules
